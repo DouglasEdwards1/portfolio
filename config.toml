@@ -1,0 +1,11 @@
+baseurl = "http://douglasedwards.uk/"
+languageCode = "en-us"
+title = "Douglas Edwards"
+
+contentdir = "content/post"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
+[params]
+githubName = "DouglasEdwards1"
